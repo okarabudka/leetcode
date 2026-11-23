@@ -1,0 +1,2 @@
+# LeetCode solutions are stored without the opening <?php tag, so GitHub would detect them as Hack.
+*.php linguist-language=PHP
